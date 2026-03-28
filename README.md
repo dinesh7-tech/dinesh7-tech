@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Dinesh<br>💻 Aspiring Web Developer<br><br>🌱 Currently learning: HTML, CSS, JavaScript<br>🚀 Passionate about building responsive and user-friendly websites<br><br>📂 Working on: Mini projects & improving coding skills<br>🎯 Goal: Become a Full Stack Developer<br><br>✨ Always learning new technologies and improving every day<br>
+👋 Hi, I'm Dinesh<br>💻 Aspiring Web Developer<br><br> Currently learning: HTML, CSS, JavaScript<br>🚀 Passionate about building responsive and user-friendly websites<br><br>📂 Working on: Mini projects & improving coding skills<br>🎯 Goal: Become a Full Stack Developer<br><br>✨ Always learning new technologies and improving every day<br>
 
 
 ## 🌐 Socials:
